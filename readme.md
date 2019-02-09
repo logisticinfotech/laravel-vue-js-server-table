@@ -6,6 +6,13 @@
 In laravel, data table used for display data from server side. In that column name display and data pass from server side. In vue js their are Server table used for display data from the server side. It is also called vue-table-2 package for server table.
 
 
+- **First We can update composer using command:**
+
+	composer update
+
+    Above command will update laravel package and install vendor folder.
+
+
 - **We can install vue js by command:**
 
 	npm install
@@ -27,6 +34,11 @@ In laravel, data table used for display data from server side. In that column na
 - **Insert users by below command:**
 
     php artisan db:seed
+
+
+- **Generate key using below command:**
+
+    php artisan key:generate
 
 
 - **Run below command for run npm package:**
