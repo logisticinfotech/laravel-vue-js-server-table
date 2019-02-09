@@ -39,6 +39,4 @@ In laravel, data table used for display display data from server side. In that c
     php artisan serve
 
 
-```
-
 [You can check full detail about it. you can open our blog](https://www.logisticinfotech.com/blog/handle-different-types-user-role-laravel).
