@@ -1,36 +1,44 @@
-
-=> step - 1
-    First download zip file and put folder in yout htdocs folder.
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 
-=> step - 2
-    Then go to your folder path in command line.
+## What is the Vue js swerver table and what is the use of it ?
+
+In laravel, data table used for display display data from server side. In that column name display and data pass from server side. In vue js their are Server table used for display data from the server side. It is also called vue-table-2 package for server table.
 
 
-=> step - 3
-    run follow command  =   npm install
+- **We can install vue js by command:**
+
+	npm install
+
+    Above command will install npm package in your project folder for vue js.
 
 
-=> step - 4
+- **Create .env file and give DB name, user name and password:**
+
     Then first create your database in local.
     Then create your .env file and change database name , username and password. Which you created in local.
 
 
-=> step - 5
-    Then run below command in command line for migrate or create tables.
+ - **Generate table by below command:**
 
-    run follow command  =   php artisan migrate
-
-
-=> step - 6
-    Then run database seeder command for insert dummy data.
-
-    run follow command  =   php artisan db:seed
+    php artisan migrate
 
 
-=> step - 7
-    run follow command  =   npm run dev
+- **Insert users by below command:**
+
+    php artisan db:seed
 
 
-=> step - 8
-    run follow command  =   php artisan serve
+- **Run below command for run npm package:**
+
+    npm run dev
+
+
+- **Run below command for start project:**
+
+    php artisan serve
+
+
+```
+
+[You can check full detail about it. you can open our blog](https://www.logisticinfotech.com/blog/).
