@@ -3,7 +3,7 @@
 
 ## What is the Vue js server table and what is the use of it ?
 
-In laravel, data table used for display display data from server side. In that column name display and data pass from server side. In vue js their are Server table used for display data from the server side. It is also called vue-table-2 package for server table.
+In laravel, data table used for display data from server side. In that column name display and data pass from server side. In vue js their are Server table used for display data from the server side. It is also called vue-table-2 package for server table.
 
 
 - **We can install vue js by command:**
