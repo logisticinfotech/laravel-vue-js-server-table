@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 
-## What is the Vue js swerver table and what is the use of it ?
+## What is the Vue js server table and what is the use of it ?
 
 In laravel, data table used for display display data from server side. In that column name display and data pass from server side. In vue js their are Server table used for display data from the server side. It is also called vue-table-2 package for server table.
 
@@ -41,4 +41,4 @@ In laravel, data table used for display display data from server side. In that c
 
 ```
 
-[You can check full detail about it. you can open our blog](https://www.logisticinfotech.com/blog/).
+<a href="https://www.logisticinfotech.com/blog/">You can check full detail about it. you can open our blog</a>.
