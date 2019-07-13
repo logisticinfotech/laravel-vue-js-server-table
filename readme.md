@@ -51,4 +51,4 @@ In laravel, data table used for display data from server side. In that column na
     php artisan serve
 
 
-[You can check full detail about it. you can open our blog](https://www.logisticinfotech.com/blog/handle-different-types-user-role-laravel).
+[You can check full detail about it. you can open our blog](https://www.logisticinfotech.com/blog/vue-js-server-table-with-laravel/).
